@@ -1,0 +1,16 @@
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\AsyncAwaitTest.csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\AsyncAwaitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\AsyncAwaitTest.AssemblyInfoInputs.cache
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\AsyncAwaitTest.AssemblyInfo.cs
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\AsyncAwaitTest.csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\bin\Debug\net5.0\AsyncAwaitTest.exe
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\bin\Debug\net5.0\AsyncAwaitTest.deps.json
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\bin\Debug\net5.0\AsyncAwaitTest.runtimeconfig.json
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\bin\Debug\net5.0\AsyncAwaitTest.runtimeconfig.dev.json
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\bin\Debug\net5.0\AsyncAwaitTest.dll
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\bin\Debug\net5.0\AsyncAwaitTest.pdb
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\AsyncAwaitTest.dll
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\refint\AsyncAwaitTest.dll
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\AsyncAwaitTest.pdb
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\AsyncAwaitTest.genruntimeconfig.cache
+D:\Dev\BACKEND\C#\AsyncAwaitTest\AsyncAwaitTest\obj\Debug\net5.0\ref\AsyncAwaitTest.dll
