@@ -11,8 +11,8 @@ namespace AsyncAwaitTest
             string url = "https://codeavecjonathan.com/res/dummy.txt";
             string url1 = "https://codeavecjonathan.com/res/pizzas1.json";
 
-            Console.Write("Download in progress ."); 
-            var displayTask = DisplayProgress();
+            Console.Write("Download in progress .");
+            _ = DisplayProgress();
             var downloadTask1 = DownloadData(url);
             var downloadTask2 = DownloadData(url1);
 
